@@ -257,6 +257,22 @@
         "documentation": {}
     },
     {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
         "label": "fileConfig",
         "importPath": "logging.config",
         "description": "logging.config",
@@ -278,6 +294,39 @@
         "description": "app.config",
         "isExtraImport": true,
         "detail": "app.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "app.config",
+        "description": "app.config",
+        "isExtraImport": true,
+        "detail": "app.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "app.config",
+        "description": "app.config",
+        "isExtraImport": true,
+        "detail": "app.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "app.config",
+        "description": "app.config",
+        "isExtraImport": true,
+        "detail": "app.config",
+        "documentation": {}
+    },
+    {
+        "label": "fastapi",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "detail": "fastapi",
         "documentation": {}
     },
     {
@@ -553,6 +602,22 @@
         "documentation": {}
     },
     {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
         "label": "OAuth2PasswordRequestForm",
         "importPath": "fastapi.security.oauth2",
         "description": "fastapi.security.oauth2",
@@ -569,11 +634,35 @@
         "documentation": {}
     },
     {
+        "label": "create_access_token",
+        "importPath": "app.oauth2",
+        "description": "app.oauth2",
+        "isExtraImport": true,
+        "detail": "app.oauth2",
+        "documentation": {}
+    },
+    {
         "label": "BaseSettings",
         "importPath": "pydantic_settings",
         "description": "pydantic_settings",
         "isExtraImport": true,
         "detail": "pydantic_settings",
+        "documentation": {}
+    },
+    {
+        "label": "declarative_base",
+        "importPath": "sqlalchemy.ext.declarative",
+        "description": "sqlalchemy.ext.declarative",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.declarative",
+        "documentation": {}
+    },
+    {
+        "label": "declarative_base",
+        "importPath": "sqlalchemy.ext.declarative",
+        "description": "sqlalchemy.ext.declarative",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.declarative",
         "documentation": {}
     },
     {
@@ -683,6 +772,14 @@
         "documentation": {}
     },
     {
+        "label": "jwt",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
         "label": "Token",
         "importPath": "app.schemas",
         "description": "app.schemas",
@@ -744,6 +841,151 @@
         "description": "passlib.context",
         "isExtraImport": true,
         "detail": "passlib.context",
+        "documentation": {}
+    },
+    {
+        "label": "TestClient",
+        "importPath": "fastapi.testclient",
+        "description": "fastapi.testclient",
+        "isExtraImport": true,
+        "detail": "fastapi.testclient",
+        "documentation": {}
+    },
+    {
+        "label": "TestClient",
+        "importPath": "fastapi.testclient",
+        "description": "fastapi.testclient",
+        "isExtraImport": true,
+        "detail": "fastapi.testclient",
+        "documentation": {}
+    },
+    {
+        "label": "pytest",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pytest",
+        "description": "pytest",
+        "detail": "pytest",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "importPath": "app.main",
+        "description": "app.main",
+        "isExtraImport": true,
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "importPath": "app.main",
+        "description": "app.main",
+        "isExtraImport": true,
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "schemas",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "schemas",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "schemas",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "schemas",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "app.database",
+        "description": "app.database",
+        "isExtraImport": true,
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "app.database",
+        "description": "app.database",
+        "isExtraImport": true,
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "app.database",
+        "description": "app.database",
+        "isExtraImport": true,
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "app.database",
+        "description": "app.database",
+        "isExtraImport": true,
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "app.calculations",
+        "description": "app.calculations",
+        "isExtraImport": true,
+        "detail": "app.calculations",
+        "documentation": {}
+    },
+    {
+        "label": "authorized_client",
+        "importPath": "tests.conftest",
+        "description": "tests.conftest",
+        "isExtraImport": true,
+        "detail": "tests.conftest",
+        "documentation": {}
+    },
+    {
+        "label": "client",
+        "importPath": "tests.conftest",
+        "description": "tests.conftest",
+        "isExtraImport": true,
+        "detail": "tests.conftest",
         "documentation": {}
     },
     {
@@ -1008,6 +1250,24 @@
         "documentation": {}
     },
     {
+        "label": "add",
+        "kind": 2,
+        "importPath": "app.calculations",
+        "description": "app.calculations",
+        "peekOfCode": "def add(num1: int, num2: 2):\n    return num1 + num2\ndef subtract(num1: int, num2: int):\n    return num1-num2",
+        "detail": "app.calculations",
+        "documentation": {}
+    },
+    {
+        "label": "subtract",
+        "kind": 2,
+        "importPath": "app.calculations",
+        "description": "app.calculations",
+        "peekOfCode": "def subtract(num1: int, num2: int):\n    return num1-num2",
+        "detail": "app.calculations",
+        "documentation": {}
+    },
+    {
         "label": "Settings",
         "kind": 6,
         "importPath": "app.config",
@@ -1093,7 +1353,7 @@
         "kind": 2,
         "importPath": "app.main",
         "description": "app.main",
-        "peekOfCode": "def root():\n    return {\"message\": \"Welcome to my NEW API!!!!\"}",
+        "peekOfCode": "def root():\n    return {\"message\": \"Welcome to my NEW API! Bind mount works\"}",
         "detail": "app.main",
         "documentation": {}
     },
@@ -1264,7 +1524,7 @@
         "kind": 6,
         "importPath": "app.schemas",
         "description": "app.schemas",
-        "peekOfCode": "class PostOut(BaseModel):\n    Post: Post   # refering to pdantic Post (previous class)\n    votes: int\nclass UserCreate(BaseModel):\n    email: EmailStr\n    password: str\nclass UserLogin(BaseModel):\n    email: EmailStr\n    password: str\n# Define a schema for the token",
+        "peekOfCode": "class PostOut(BaseModel):\n    Post: Post   # refering to pdantic Post (previous class)\n    votes: int\n    class Config:\n        orm_mode = True\nclass UserCreate(BaseModel):\n    email: EmailStr\n    password: str\nclass UserLogin(BaseModel):\n    email: EmailStr",
         "detail": "app.schemas",
         "documentation": {}
     },
@@ -1338,6 +1598,357 @@
         "description": "app.utils",
         "peekOfCode": "pwd_context = CryptContext(schemes=[\"bcrypt\"], deprecated=\"auto\")\n# encrypt passwords (hashing)\ndef hash(password: str):\n    return pwd_context.hash(password)\n# verify if hashed(plain_password) == hashed_password\ndef verify(plain_password, hashed_password):\n    return pwd_context.verify(plain_password, hashed_password)",
         "detail": "app.utils",
+        "documentation": {}
+    },
+    {
+        "label": "session",
+        "kind": 2,
+        "importPath": "tests.conftest",
+        "description": "tests.conftest",
+        "peekOfCode": "def session():\n    print(\"my session fixture ran\")\n    Base.metadata.drop_all(bind=engine) \n    Base.metadata.create_all(bind=engine) \n    db = TestingSessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()\n@pytest.fixture()",
+        "detail": "tests.conftest",
+        "documentation": {}
+    },
+    {
+        "label": "client",
+        "kind": 2,
+        "importPath": "tests.conftest",
+        "description": "tests.conftest",
+        "peekOfCode": "def client(session):\n    def override_get_db():\n        # run this before we run our test\n        try:\n            yield session\n        finally:\n            session.close()\n    app.dependency_overrides[get_db] = override_get_db\n    yield  TestClient(app)\n    # run this code after our code finishes",
+        "detail": "tests.conftest",
+        "documentation": {}
+    },
+    {
+        "label": "test_user",
+        "kind": 2,
+        "importPath": "tests.conftest",
+        "description": "tests.conftest",
+        "peekOfCode": "def test_user(client):\n    user_data = {\"email\": \"georgia@gmail.com\",\n              \"password\": \"password123\"}\n    res = client.post(\"/users/\", json=user_data)\n    assert res.status_code == 201\n    print(res.json())\n    new_user = res.json()\n    new_user['password'] = user_data['password']\n    return new_user\n@pytest.fixture",
+        "detail": "tests.conftest",
+        "documentation": {}
+    },
+    {
+        "label": "test_user2",
+        "kind": 2,
+        "importPath": "tests.conftest",
+        "description": "tests.conftest",
+        "peekOfCode": "def test_user2(client):\n    user_data = {\"email\": \"georgia123@gmail.com\",\n              \"password\": \"password123\"}\n    res = client.post(\"/users/\", json=user_data)\n    assert res.status_code == 201\n    print(res.json())\n    new_user = res.json()\n    new_user['password'] = user_data['password']\n    return new_user\n@pytest.fixture",
+        "detail": "tests.conftest",
+        "documentation": {}
+    },
+    {
+        "label": "token",
+        "kind": 2,
+        "importPath": "tests.conftest",
+        "description": "tests.conftest",
+        "peekOfCode": "def token(test_user):\n    return create_access_token({\"user_id\": test_user['id']})\n@pytest.fixture\ndef authorized_client(client, token):\n    client.headers = {\n        **client.headers,\n        \"Authorization\": f\"Bearer {token}\"\n    }\n    return client\n@pytest.fixture",
+        "detail": "tests.conftest",
+        "documentation": {}
+    },
+    {
+        "label": "authorized_client",
+        "kind": 2,
+        "importPath": "tests.conftest",
+        "description": "tests.conftest",
+        "peekOfCode": "def authorized_client(client, token):\n    client.headers = {\n        **client.headers,\n        \"Authorization\": f\"Bearer {token}\"\n    }\n    return client\n@pytest.fixture\ndef test_posts(test_user, session, test_user2):\n    posts_data = [{\n        \"title\": \"first title\",",
+        "detail": "tests.conftest",
+        "documentation": {}
+    },
+    {
+        "label": "test_posts",
+        "kind": 2,
+        "importPath": "tests.conftest",
+        "description": "tests.conftest",
+        "peekOfCode": "def test_posts(test_user, session, test_user2):\n    posts_data = [{\n        \"title\": \"first title\",\n        \"content\": \"first content\",\n        \"owner_id\": test_user['id']\n    },\n    {\n        \"title\": \"2nd title\",\n        \"content\": \"2nd content\",\n        \"owner_id\": test_user['id']",
+        "detail": "tests.conftest",
+        "documentation": {}
+    },
+    {
+        "label": "#SQLALCHEMY_DATABASE_URL",
+        "kind": 5,
+        "importPath": "tests.conftest",
+        "description": "tests.conftest",
+        "peekOfCode": "#SQLALCHEMY_DATABASE_URL = 'postgresql://postgres:postgres@localhost:5432/fastapi_test'  # postgresname:password\nSQLALCHEMY_DATABASE_URL = f'postgresql://{settings.database_username}:{settings.database_password}@{settings.database_hostname}:{settings.database_port}/{settings.database_name}_test'\nprint(settings.database_name)\ntry:\n    engine = create_engine(SQLALCHEMY_DATABASE_URL)\n    with engine.connect() as connection:\n        print(\"✅ Successfully connected to the database!\")\nexcept Exception as e:\n    print(\"❌ Database connection failed:\", e)\nTestingSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)",
+        "detail": "tests.conftest",
+        "documentation": {}
+    },
+    {
+        "label": "SQLALCHEMY_DATABASE_URL",
+        "kind": 5,
+        "importPath": "tests.conftest",
+        "description": "tests.conftest",
+        "peekOfCode": "SQLALCHEMY_DATABASE_URL = f'postgresql://{settings.database_username}:{settings.database_password}@{settings.database_hostname}:{settings.database_port}/{settings.database_name}_test'\nprint(settings.database_name)\ntry:\n    engine = create_engine(SQLALCHEMY_DATABASE_URL)\n    with engine.connect() as connection:\n        print(\"✅ Successfully connected to the database!\")\nexcept Exception as e:\n    print(\"❌ Database connection failed:\", e)\nTestingSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\n#Base.metadata.create_all(bind=engine)  # will automatically create all tables in the test database",
+        "detail": "tests.conftest",
+        "documentation": {}
+    },
+    {
+        "label": "TestingSessionLocal",
+        "kind": 5,
+        "importPath": "tests.conftest",
+        "description": "tests.conftest",
+        "peekOfCode": "TestingSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\n#Base.metadata.create_all(bind=engine)  # will automatically create all tables in the test database\n# Dependency for database sessions\n#def override_get_db():  # gives different session object (will overwrite our local DB )\n#    db = TestingSessionLocal()\n#    try:\n#        yield db\n#    finally:\n#        db.close()\n@pytest.fixture()",
+        "detail": "tests.conftest",
+        "documentation": {}
+    },
+    {
+        "label": "session",
+        "kind": 2,
+        "importPath": "tests.database",
+        "description": "tests.database",
+        "peekOfCode": "def session():\n    print(\"my session fixture ran\")\n    Base.metadata.drop_all(bind=engine) \n    Base.metadata.create_all(bind=engine) \n    db = TestingSessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()\n@pytest.fixture()",
+        "detail": "tests.database",
+        "documentation": {}
+    },
+    {
+        "label": "client",
+        "kind": 2,
+        "importPath": "tests.database",
+        "description": "tests.database",
+        "peekOfCode": "def client(session):\n    def override_get_db():\n        # run this before we run our test\n        try:\n            yield session\n        finally:\n            session.close()\n    app.dependency_overrides[get_db] = override_get_db\n    yield  TestClient(app)\n    # run this code after our code finishes",
+        "detail": "tests.database",
+        "documentation": {}
+    },
+    {
+        "label": "#SQLALCHEMY_DATABASE_URL",
+        "kind": 5,
+        "importPath": "tests.database",
+        "description": "tests.database",
+        "peekOfCode": "#SQLALCHEMY_DATABASE_URL = 'postgresql://postgres:postgres@localhost:5432/fastapi_test'  # postgresname:password\nSQLALCHEMY_DATABASE_URL = f'postgresql://{settings.database_username}:{settings.database_password}@{settings.database_hostname}:{settings.database_port}/{settings.database_name}_test'\nprint(settings.database_name)\nprint(SQLALCHEMY_DATABASE_URL)\nengine = create_engine(SQLALCHEMY_DATABASE_URL)\nTestingSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\n#Base.metadata.create_all(bind=engine)  # will automatically create all tables in the test database\n# Dependency for database sessions\n#def override_get_db():  # gives different session object (will overwrite our local DB )\n#    db = TestingSessionLocal()",
+        "detail": "tests.database",
+        "documentation": {}
+    },
+    {
+        "label": "SQLALCHEMY_DATABASE_URL",
+        "kind": 5,
+        "importPath": "tests.database",
+        "description": "tests.database",
+        "peekOfCode": "SQLALCHEMY_DATABASE_URL = f'postgresql://{settings.database_username}:{settings.database_password}@{settings.database_hostname}:{settings.database_port}/{settings.database_name}_test'\nprint(settings.database_name)\nprint(SQLALCHEMY_DATABASE_URL)\nengine = create_engine(SQLALCHEMY_DATABASE_URL)\nTestingSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\n#Base.metadata.create_all(bind=engine)  # will automatically create all tables in the test database\n# Dependency for database sessions\n#def override_get_db():  # gives different session object (will overwrite our local DB )\n#    db = TestingSessionLocal()\n#    try:",
+        "detail": "tests.database",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "kind": 5,
+        "importPath": "tests.database",
+        "description": "tests.database",
+        "peekOfCode": "engine = create_engine(SQLALCHEMY_DATABASE_URL)\nTestingSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\n#Base.metadata.create_all(bind=engine)  # will automatically create all tables in the test database\n# Dependency for database sessions\n#def override_get_db():  # gives different session object (will overwrite our local DB )\n#    db = TestingSessionLocal()\n#    try:\n#        yield db\n#    finally:\n#        db.close()",
+        "detail": "tests.database",
+        "documentation": {}
+    },
+    {
+        "label": "TestingSessionLocal",
+        "kind": 5,
+        "importPath": "tests.database",
+        "description": "tests.database",
+        "peekOfCode": "TestingSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\n#Base.metadata.create_all(bind=engine)  # will automatically create all tables in the test database\n# Dependency for database sessions\n#def override_get_db():  # gives different session object (will overwrite our local DB )\n#    db = TestingSessionLocal()\n#    try:\n#        yield db\n#    finally:\n#        db.close()\n@pytest.fixture()",
+        "detail": "tests.database",
+        "documentation": {}
+    },
+    {
+        "label": "test_add",
+        "kind": 2,
+        "importPath": "tests.test_calculations",
+        "description": "tests.test_calculations",
+        "peekOfCode": "def test_add(num1, num2, expected):\n    print(\" testing add function\")\n    assert add(num1, num2) == expected\ndef test_subtract():\n    assert subtract(5,2) ==3",
+        "detail": "tests.test_calculations",
+        "documentation": {}
+    },
+    {
+        "label": "test_subtract",
+        "kind": 2,
+        "importPath": "tests.test_calculations",
+        "description": "tests.test_calculations",
+        "peekOfCode": "def test_subtract():\n    assert subtract(5,2) ==3",
+        "detail": "tests.test_calculations",
+        "documentation": {}
+    },
+    {
+        "label": "test_get_all_posts",
+        "kind": 2,
+        "importPath": "tests.test_posts",
+        "description": "tests.test_posts",
+        "peekOfCode": "def test_get_all_posts(authorized_client, test_posts):\n    res = authorized_client.get(\"/posts/\")\n    def validate(post):\n        return schemas.PostOut(**post)\n    posts_map = map(validate, res.json())\n    posts_list = list(posts_map)\n    print(list(posts_map))\n    print(res.json())\n    assert len(res.json()) == len(test_posts)\n    assert res.status_code == 200",
+        "detail": "tests.test_posts",
+        "documentation": {}
+    },
+    {
+        "label": "test_unauthorized_user_get_all_posts",
+        "kind": 2,
+        "importPath": "tests.test_posts",
+        "description": "tests.test_posts",
+        "peekOfCode": "def test_unauthorized_user_get_all_posts(client, test_posts):\n    res = client.get(f\"/posts/\")\n    assert res.status_code == 401\ndef test_unauthorized_user_get_all_posts(client, test_posts):\n    res = client.get(f\"/posts/{test_posts[0].id}\")\n    assert res.status_code == 401\ndef test_get_one_post_not_exist(authorized_client, test_posts):\n    res = authorized_client.get(f\"/posts/888888\")\n    assert res.status_code ==404\ndef test_get_one_post(authorized_client, test_posts):",
+        "detail": "tests.test_posts",
+        "documentation": {}
+    },
+    {
+        "label": "test_unauthorized_user_get_all_posts",
+        "kind": 2,
+        "importPath": "tests.test_posts",
+        "description": "tests.test_posts",
+        "peekOfCode": "def test_unauthorized_user_get_all_posts(client, test_posts):\n    res = client.get(f\"/posts/{test_posts[0].id}\")\n    assert res.status_code == 401\ndef test_get_one_post_not_exist(authorized_client, test_posts):\n    res = authorized_client.get(f\"/posts/888888\")\n    assert res.status_code ==404\ndef test_get_one_post(authorized_client, test_posts):\n    res = authorized_client.get(f\"/posts/{test_posts[0].id}\")\n    post = schemas.PostOut(**res.json())\n    assert post.Post.id == test_posts[0].id",
+        "detail": "tests.test_posts",
+        "documentation": {}
+    },
+    {
+        "label": "test_get_one_post_not_exist",
+        "kind": 2,
+        "importPath": "tests.test_posts",
+        "description": "tests.test_posts",
+        "peekOfCode": "def test_get_one_post_not_exist(authorized_client, test_posts):\n    res = authorized_client.get(f\"/posts/888888\")\n    assert res.status_code ==404\ndef test_get_one_post(authorized_client, test_posts):\n    res = authorized_client.get(f\"/posts/{test_posts[0].id}\")\n    post = schemas.PostOut(**res.json())\n    assert post.Post.id == test_posts[0].id\n    assert post.Post.content == test_posts[0].content\n    assert post.Post.title == test_posts[0].title\n@pytest.mark.parametrize(\"title, content, , published\",[",
+        "detail": "tests.test_posts",
+        "documentation": {}
+    },
+    {
+        "label": "test_get_one_post",
+        "kind": 2,
+        "importPath": "tests.test_posts",
+        "description": "tests.test_posts",
+        "peekOfCode": "def test_get_one_post(authorized_client, test_posts):\n    res = authorized_client.get(f\"/posts/{test_posts[0].id}\")\n    post = schemas.PostOut(**res.json())\n    assert post.Post.id == test_posts[0].id\n    assert post.Post.content == test_posts[0].content\n    assert post.Post.title == test_posts[0].title\n@pytest.mark.parametrize(\"title, content, , published\",[\n    (\"awesome new title\", \"awesome content\", \"True\"),\n    (\"awesome new title2\", \"awesome content2\", \"False\")\n])",
+        "detail": "tests.test_posts",
+        "documentation": {}
+    },
+    {
+        "label": "test_create_post",
+        "kind": 2,
+        "importPath": "tests.test_posts",
+        "description": "tests.test_posts",
+        "peekOfCode": "def test_create_post(authorized_client, test_user, test_posts, title, content, published):\n    res = authorized_client.post(\"/posts/\", json={\"title\": title, \"content\": content, \n                                                  \"published\": published})\n    created_post = schemas.Post(**res.json())\n    assert res.status_code == 201\n    assert created_post.title == title\n    assert created_post.content == content\n    assert created_post.published == published\n    assert created_post.owner_id == test_user['id']\ndef test_create_post_default_published_true(authorized_client, test_user, test_posts):",
+        "detail": "tests.test_posts",
+        "documentation": {}
+    },
+    {
+        "label": "test_create_post_default_published_true",
+        "kind": 2,
+        "importPath": "tests.test_posts",
+        "description": "tests.test_posts",
+        "peekOfCode": "def test_create_post_default_published_true(authorized_client, test_user, test_posts):\n    res = authorized_client.post(\"/posts/\", json={\"title\": \"random title\", \"content\": \"content\"})\n    created_post = schemas.Post(**res.json())\n    assert res.status_code == 201\n    assert created_post.title == \"random title\"\n    assert created_post.content == \"content\"\n    assert created_post.published == True\n    assert created_post.owner_id == test_user['id']\ndef test_unauthorized_user_create_post(client, test_user, test_posts):\n    res = client.post(\"/posts/\", json={\"title\": \"random title\", \"content\": \"random content\"})",
+        "detail": "tests.test_posts",
+        "documentation": {}
+    },
+    {
+        "label": "test_unauthorized_user_create_post",
+        "kind": 2,
+        "importPath": "tests.test_posts",
+        "description": "tests.test_posts",
+        "peekOfCode": "def test_unauthorized_user_create_post(client, test_user, test_posts):\n    res = client.post(\"/posts/\", json={\"title\": \"random title\", \"content\": \"random content\"})\n    assert res.status_code == 401\ndef test_unauthorized_user_delete_post(client, test_user, test_posts):\n    res = client.delete(f\"/posts/{test_posts[0].id}\")\n    assert res.status_code == 401\ndef test_delete_post_success(authorized_client, test_user, test_posts):\n    res = authorized_client.delete(f\"/posts/{test_posts[0].id}\")\n    assert res.status_code == 204\ndef test_delete_post_non_exist(authorized_client, test_user, test_posts):",
+        "detail": "tests.test_posts",
+        "documentation": {}
+    },
+    {
+        "label": "test_unauthorized_user_delete_post",
+        "kind": 2,
+        "importPath": "tests.test_posts",
+        "description": "tests.test_posts",
+        "peekOfCode": "def test_unauthorized_user_delete_post(client, test_user, test_posts):\n    res = client.delete(f\"/posts/{test_posts[0].id}\")\n    assert res.status_code == 401\ndef test_delete_post_success(authorized_client, test_user, test_posts):\n    res = authorized_client.delete(f\"/posts/{test_posts[0].id}\")\n    assert res.status_code == 204\ndef test_delete_post_non_exist(authorized_client, test_user, test_posts):\n    res = authorized_client.delete(f\"/posts/80000000\")\n    assert res.status_code == 404\ndef test_delete_other_user_post(authorized_client, test_user, test_posts):",
+        "detail": "tests.test_posts",
+        "documentation": {}
+    },
+    {
+        "label": "test_delete_post_success",
+        "kind": 2,
+        "importPath": "tests.test_posts",
+        "description": "tests.test_posts",
+        "peekOfCode": "def test_delete_post_success(authorized_client, test_user, test_posts):\n    res = authorized_client.delete(f\"/posts/{test_posts[0].id}\")\n    assert res.status_code == 204\ndef test_delete_post_non_exist(authorized_client, test_user, test_posts):\n    res = authorized_client.delete(f\"/posts/80000000\")\n    assert res.status_code == 404\ndef test_delete_other_user_post(authorized_client, test_user, test_posts):\n    res = authorized_client.delete(f\"/posts/{test_posts[3].id}\")\n    assert res.status_code ==403\ndef test_update_post(authorized_client, test_user, test_posts):",
+        "detail": "tests.test_posts",
+        "documentation": {}
+    },
+    {
+        "label": "test_delete_post_non_exist",
+        "kind": 2,
+        "importPath": "tests.test_posts",
+        "description": "tests.test_posts",
+        "peekOfCode": "def test_delete_post_non_exist(authorized_client, test_user, test_posts):\n    res = authorized_client.delete(f\"/posts/80000000\")\n    assert res.status_code == 404\ndef test_delete_other_user_post(authorized_client, test_user, test_posts):\n    res = authorized_client.delete(f\"/posts/{test_posts[3].id}\")\n    assert res.status_code ==403\ndef test_update_post(authorized_client, test_user, test_posts):\n    data = {\n        \"title\": \" updated title\",\n        \"content\": \"updated content\",",
+        "detail": "tests.test_posts",
+        "documentation": {}
+    },
+    {
+        "label": "test_delete_other_user_post",
+        "kind": 2,
+        "importPath": "tests.test_posts",
+        "description": "tests.test_posts",
+        "peekOfCode": "def test_delete_other_user_post(authorized_client, test_user, test_posts):\n    res = authorized_client.delete(f\"/posts/{test_posts[3].id}\")\n    assert res.status_code ==403\ndef test_update_post(authorized_client, test_user, test_posts):\n    data = {\n        \"title\": \" updated title\",\n        \"content\": \"updated content\",\n        \"id\": test_posts[0].id\n    }\n    res = authorized_client.put(f\"/posts/{test_posts[0].id}\", json=data)",
+        "detail": "tests.test_posts",
+        "documentation": {}
+    },
+    {
+        "label": "test_update_post",
+        "kind": 2,
+        "importPath": "tests.test_posts",
+        "description": "tests.test_posts",
+        "peekOfCode": "def test_update_post(authorized_client, test_user, test_posts):\n    data = {\n        \"title\": \" updated title\",\n        \"content\": \"updated content\",\n        \"id\": test_posts[0].id\n    }\n    res = authorized_client.put(f\"/posts/{test_posts[0].id}\", json=data)\n    updated_post = schemas.Post(**res.json())\n    assert res.status_code==200\n    assert updated_post.title == data['title']",
+        "detail": "tests.test_posts",
+        "documentation": {}
+    },
+    {
+        "label": "test_updated_other_user_post",
+        "kind": 2,
+        "importPath": "tests.test_posts",
+        "description": "tests.test_posts",
+        "peekOfCode": "def test_updated_other_user_post(authorized_client, test_user, test_user2, test_posts):\n    data = {\n        \"title\": \" updated title\",\n        \"content\": \"updated content\",\n        \"id\": test_posts[3].id\n    }   \n    res = authorized_client.put(f\"/posts/{test_posts[3].id}\", json=data)\n    assert res.status_code == 403",
+        "detail": "tests.test_posts",
+        "documentation": {}
+    },
+    {
+        "label": "test_create_user",
+        "kind": 2,
+        "importPath": "tests.test_users",
+        "description": "tests.test_users",
+        "peekOfCode": "def test_create_user(client):\n    res = client.post(\"/users/\", json={\"email\": \"hello123@gmail.com\", \"password\": \"password123\"})\n    new_user = schemas.UserOut(**res.json())  # checks if schema properties are included\n    assert new_user.email ==\"hello123@gmail.com\"\n    assert res.status_code == 201\ndef test_login_user(client, test_user):\n    res = client.post(\"/login\", data={\"username\": test_user['email'], \"password\": test_user['password']})\n    login_res = schemas.Token(**res.json())\n    payload =  jwt.decode(login_res.access_token, settings.secret_key, algorithms=[settings.algorithm])  # decode token using SECRET_KEY and ALGORITHM\n    id = payload.get(\"user_id\")  # extract id",
+        "detail": "tests.test_users",
+        "documentation": {}
+    },
+    {
+        "label": "test_login_user",
+        "kind": 2,
+        "importPath": "tests.test_users",
+        "description": "tests.test_users",
+        "peekOfCode": "def test_login_user(client, test_user):\n    res = client.post(\"/login\", data={\"username\": test_user['email'], \"password\": test_user['password']})\n    login_res = schemas.Token(**res.json())\n    payload =  jwt.decode(login_res.access_token, settings.secret_key, algorithms=[settings.algorithm])  # decode token using SECRET_KEY and ALGORITHM\n    id = payload.get(\"user_id\")  # extract id\n    assert id == test_user['id']\n    assert login_res.token_type == \"bearer\"\n    assert res.status_code == 200\n#@pytest.mark.parametrize(\"email, password, status_code\", [\n#    (",
+        "detail": "tests.test_users",
+        "documentation": {}
+    },
+    {
+        "label": "test_incorrect_login",
+        "kind": 2,
+        "importPath": "tests.test_users",
+        "description": "tests.test_users",
+        "peekOfCode": "def test_incorrect_login( client, data, status_code):\n    res = client.post(\"/login\", json=data)\n    assert res.status_code == status_code\n    #assert res.json().get('detail') == 'Invalid credentials'",
+        "detail": "tests.test_users",
+        "documentation": {}
+    },
+    {
+        "label": "test_vote",
+        "kind": 2,
+        "importPath": "tests.test_votes",
+        "description": "tests.test_votes",
+        "peekOfCode": "def test_vote(test_posts, session, test_user):\n    new_vote = models.Vote(post_id=test_posts[3].id, user_id=test_user['id'])\n    session.add(new_vote)\n    session.commit()\ndef test_vote_on_post(authorized_client, test_posts):\n    res = authorized_client.post(\"/vote/\", json={\"post_id\": test_posts[3].id, \"dir\": 1})\n    assert res.status_code == 201\ndef test_vote_twice_post(authorized_client, test_posts, test_vote):\n    res = authorized_client.post(\"/vote/\", json={\"post_id\": test_posts[3].id, \"dir\": 1})\n    assert res.status_code == 409",
+        "detail": "tests.test_votes",
+        "documentation": {}
+    },
+    {
+        "label": "test_vote_on_post",
+        "kind": 2,
+        "importPath": "tests.test_votes",
+        "description": "tests.test_votes",
+        "peekOfCode": "def test_vote_on_post(authorized_client, test_posts):\n    res = authorized_client.post(\"/vote/\", json={\"post_id\": test_posts[3].id, \"dir\": 1})\n    assert res.status_code == 201\ndef test_vote_twice_post(authorized_client, test_posts, test_vote):\n    res = authorized_client.post(\"/vote/\", json={\"post_id\": test_posts[3].id, \"dir\": 1})\n    assert res.status_code == 409\ndef test_delete_vote(authorized_client, test_posts, test_vote):\n    res=authorized_client.post(\"/vote/\", json={\"post_id\": test_posts[3].id, \"dir\": 0})\n    assert res.status_code==201",
+        "detail": "tests.test_votes",
+        "documentation": {}
+    },
+    {
+        "label": "test_vote_twice_post",
+        "kind": 2,
+        "importPath": "tests.test_votes",
+        "description": "tests.test_votes",
+        "peekOfCode": "def test_vote_twice_post(authorized_client, test_posts, test_vote):\n    res = authorized_client.post(\"/vote/\", json={\"post_id\": test_posts[3].id, \"dir\": 1})\n    assert res.status_code == 409\ndef test_delete_vote(authorized_client, test_posts, test_vote):\n    res=authorized_client.post(\"/vote/\", json={\"post_id\": test_posts[3].id, \"dir\": 0})\n    assert res.status_code==201",
+        "detail": "tests.test_votes",
+        "documentation": {}
+    },
+    {
+        "label": "test_delete_vote",
+        "kind": 2,
+        "importPath": "tests.test_votes",
+        "description": "tests.test_votes",
+        "peekOfCode": "def test_delete_vote(authorized_client, test_posts, test_vote):\n    res=authorized_client.post(\"/vote/\", json={\"post_id\": test_posts[3].id, \"dir\": 0})\n    assert res.status_code==201",
+        "detail": "tests.test_votes",
         "documentation": {}
     }
 ]
