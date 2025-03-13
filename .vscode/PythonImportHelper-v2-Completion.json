@@ -1353,7 +1353,7 @@
         "kind": 2,
         "importPath": "app.main",
         "description": "app.main",
-        "peekOfCode": "def root():\n    return {\"message\": \"Welcome to my NEW API! Bind mount works\"}",
+        "peekOfCode": "def root():\n    return {\"message\": \"Welcome to my NEW API! Pushing out to ubuntu\"}",
         "detail": "app.main",
         "documentation": {}
     },
